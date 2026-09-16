@@ -1,0 +1,15 @@
+asgiref==3.12.1
+blinker==1.9.0
+click==8.4.2
+colorama==0.4.6
+Django==6.0.7
+Flask==3.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+mysqlclient==2.2.8
+PyQRCode==1.2.1
+qrcode==8.2
+sqlparse==0.5.5
+tzdata==2026.3
+Werkzeug==3.1.8
