@@ -1,0 +1,8 @@
+@echo off
+cd /d "C:\Users\lavan\OneDrive\smart college event project"
+
+start "" cmd /c "python manage.py runserver"
+
+timeout /t 3 /nobreak >nul
+
+start "" http://127.0.0.1:8000/
